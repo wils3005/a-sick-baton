@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "zod": "^3.11.6"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "esbuild": "^0.14.23"
+  }
+}

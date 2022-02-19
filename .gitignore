@@ -1,0 +1,9 @@
+.serverless/
+build/
+node_modules/
+tmp/
+
+.env*
+!.env.sample
+*.code-workspace
+*.sqlite3
